@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @AlifImtiaj
-- 👀 I’m interested in everything that I have interest.
-- 🌱 I’m currently learning anything I want
-- 💞️ I’m looking to collaborate with Alan Walker.
 - 📫 How to reach me itzalif.imtiaj@gmail.com
 - On twitter : alifIMTIAJ_2
 
