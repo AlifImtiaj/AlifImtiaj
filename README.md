@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AlifImtiaj
-- 📫 How to reach me itzalif.imtiaj@gmail.com
+- 📫 How to reach me alifimtiaj.official@gmail.com
 - On twitter : alifIMTIAJ_2
 
 <!---
