@@ -20,18 +20,22 @@
 
 - 🔧 CMake, Git, SFML 3
 - ⚙️ Operating System Concepts
-- 
 - 🔬 Digital System Design & Signal Processing
+- 📖 And plain old booring University topics XD
+
+---
+
+## Future Goals
+- Learn about computer
+- Learn about network
+- Maybe computer vision
 
 ---
 
 ## 📫 How to Reach Me
 
 - 📧 Email: [alifimtiaj.official@gmail.com](mailto:alifimtiaj.official@gmail.com)
-- 🐦 Twitter: [@alifIMTIAJ_2](https://twitter.com/alifIMTIAJ_2)
 - 💼 LinkedIn: [Alif Imtiaj](https://www.linkedin.com/in/alif-imtiaj-0ab576154/)
-
----
-
+- 🐦 Twitter: [@alifIMTIAJ_2](https://twitter.com/alifIMTIAJ_2)
 
 ---
