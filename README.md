@@ -1,8 +1,37 @@
-- 👋 Hi, I’m @AlifImtiaj
-- 📫 How to reach me alifimtiaj.official@gmail.com
-- On twitter : alifIMTIAJ_2
+# 👋 Hi there, I'm Alif Imtiaj
 
-<!---
-AlifImtiaj/AlifImtiaj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 I'm an undergraduate student at **Rajshahi University of Engineering & Technology (RUET)**, majoring in **Electronics and Telecommunication Engineering (ETE)**.
+
+💻 I’ve always had a deep passion for **programming**, **computer systems**, and understanding how things work under the hood. I enjoy building projects, solving problems, and continuously learning new technologies.
+
+---
+
+## 🚀 What I Do
+
+- 🌐 Learning **C++**, **Electronics**, and diving into **low-level systems**
+- 🕹️ Exploring **Game Development** using **SFML** and **SDL**
+- 📦 Experimenting with **Data Structures**, **Algorithms**, and **OOP**
+- 🛠️ Working on **open-source** and **personal projects**
+
+---
+
+
+## 🧠 Currently Learning
+
+- 🔧 CMake, Git, SFML 3
+- ⚙️ Operating System Concepts
+- 
+- 🔬 Digital System Design & Signal Processing
+
+---
+
+## 📫 How to Reach Me
+
+- 📧 Email: [alifimtiaj.official@gmail.com](mailto:alifimtiaj.official@gmail.com)
+- 🐦 Twitter: [@alifIMTIAJ_2](https://twitter.com/alifIMTIAJ_2)
+- 💼 LinkedIn: [Alif Imtiaj](https://www.linkedin.com/in/alif-imtiaj-0ab576154/)
+
+---
+
+
+---
