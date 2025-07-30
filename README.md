@@ -18,7 +18,7 @@
 
 ## 🧠 Currently Learning
 
-- 🔧 CMake, Git, SFML 3
+- 🔧 C++, SFML 3, Git
 - ⚙️ Operating System Concepts
 - 🔬 Digital System Design & Signal Processing
 - 📖 And plain old booring University topics XD
@@ -27,8 +27,8 @@
 
 ## Future Goals
 - Learn about computer
-- Learn about network
-- Maybe computer vision
+- Learn about networking
+- Strong desire to learn about physics. But I've way too many things on my wishlist
 
 ---
 
