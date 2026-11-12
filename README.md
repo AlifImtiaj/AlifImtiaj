@@ -2,7 +2,7 @@
 
 I'm an undergraduate student at **Rajshahi University of Engineering & Technology (RUET)**, studying **Electronics and Telecommunication Engineering (ETE)**.
 
-I'm into programming, computer systems, electronics. I like to figure out how things actually work under the hood. I enjoy building stuff. Whether its with C++ or electronics stuffs, experimenting with game development and occasionally going down rabbit holes I probably didn't need to go down in the first place.
+I'm into programming, computer systems, electronics. I like to figure out how things actually work under the hood. I enjoy building stuff. Whether its with C++ or electronics stuffs, experimenting with game development or occasionally going down rabbit holes I probably didn't need to go down in the first place.
 
 ---
 
