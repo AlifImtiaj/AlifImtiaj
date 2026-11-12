@@ -1,33 +1,33 @@
 # Hi there, I'm Alif Imtiaj
 
-I'm an undergraduate student at **Rajshahi University of Engineering & Technology (RUET)**, majoring in **Electronics and Telecommunication Engineering (ETE)**.
+I'm an undergraduate student at **Rajshahi University of Engineering & Technology (RUET)**, studying **Electronics and Telecommunication Engineering (ETE)**.
 
-I’ve always had a deep passion for **programming**, **computer systems**, and understanding how things work under the hood. I enjoy building projects, solving problems, and continuously learning new technologies.
+I'm into programming, computer systems, electronics. I like to figure out how things actually work under the hood. I enjoy building stuff. Whether its with C++ or electronics stuffs, experimenting with game development and occasionally going down rabbit holes I probably didn't need to go down in the first place.
 
 ---
 
 ## What I Do
 
 - Learning **C++**, **Electronics**, and diving into **low-level systems**
-- Exploring **Game Development** using **SFML** and **SDL**
-- Experimenting with **Data Structures**, **Algorithms**, and **OOP**
-- Working on **open-source** and **personal projects**
+- Exploring **Game Development** using **SDL**
+- Experimenting with **Data Structures**, **Algorithms** and **OOP**
+- Working on **personal projects**
 
 ---
 
 
 ## Currently Learning
-
-- C++, SFML 3, Git
+- C++ and SDL
 - Operating System Concepts
-- And plain old booring University topics XD
+- Analog and Digital Electronics
+
 
 ---
 
 ## Future Goals
-- Learn about computer
-- Learn about networking
-- Strong desire to learn about physics. But I've way too many things on my wishlist
+- Learn networking
+- Understand computers at the lowest level possible
+- Dive into OpenGL
 
 ---
 
@@ -35,5 +35,6 @@ I’ve always had a deep passion for **programming**, **computer systems**, and 
 
 - Email: [alifimtiaj.official@gmail.com](mailto:alifimtiaj.official@gmail.com)
 - LinkedIn: [Alif Imtiaj](https://www.linkedin.com/in/alif-imtiaj-0ab576154/)
+- Facebook: [Alif Imtiaj](https://www.facebook.com/ALiF.iMTiAj.2/)
 
 ---
